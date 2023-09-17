@@ -11,3 +11,12 @@
     background-image: url('/images/banner1.png');
     background-repeat: no-repeat;
 } */
+
+@media screen and (max-width:662px){
+      .fruit-section{
+        visibility: hidden;
+      }
+     .team-member{
+        visibility: hidden;
+     } 
+}
